@@ -1,2 +1,0 @@
-# CRYPTOBANK
-the cryptocurrency bank
